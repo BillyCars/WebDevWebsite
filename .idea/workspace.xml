@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="56a764d5-ea60-46a1-be34-96481ea3047d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gq3HR4uEizsXgjipuZ5PGCESXR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/GitHub" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Billy Abbene\WebstormProjects\WebDevApp1" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56a764d5-ea60-46a1-be34-96481ea3047d" name="Default Changelist" comment="" />
+      <created>1598828207248</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598828207248</updated>
+      <workItem from="1598828208482" duration="4172000" />
+      <workItem from="1598988207259" duration="7373000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="590" y="340" key="#Notifications" timestamp="1598996583037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="590" y="340" key="#Notifications/0.0.1920.1040/-2560.0.2560.1400@0.0.1920.1040" timestamp="1598996583037" />
+    <state x="616" y="257" key="FileChooserDialogImpl" timestamp="1598996512044">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="257" key="FileChooserDialogImpl/0.0.1920.1040/-2560.0.2560.1400@0.0.1920.1040" timestamp="1598996512044" />
+    <state x="705" y="414" key="Github.ShareDialog" timestamp="1598996574883">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="705" y="414" key="Github.ShareDialog/0.0.1920.1040/-2560.0.2560.1400@0.0.1920.1040" timestamp="1598996574883" />
+    <state x="499" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1598990761222">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="499" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-2560.0.2560.1400@0.0.1920.1040" timestamp="1598990761222" />
+  </component>
+</project>
