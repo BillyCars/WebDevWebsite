@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56a764d5-ea60-46a1-be34-96481ea3047d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="56a764d5-ea60-46a1-be34-96481ea3047d" name="Default Changelist" comment="updated to index">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Menis.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interests.html" beforeDir="false" afterPath="$PROJECT_DIR$/interests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poll.html" beforeDir="false" afterPath="$PROJECT_DIR$/poll.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +23,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1gq3HR4uEizsXgjipuZ5PGCESXR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -51,12 +55,25 @@
       <updated>1598828207248</updated>
       <workItem from="1598828208482" duration="4172000" />
       <workItem from="1598988207259" duration="7373000" />
-      <workItem from="1599014292485" duration="1030000" />
+      <workItem from="1599014292485" duration="1711000" />
+      <workItem from="1599767455886" duration="6295000" />
     </task>
+    <task id="LOCAL-00001" summary="updated to index">
+      <created>1599015762705</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599015762705</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated to index" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated to index" />
   </component>
   <component name="WindowStateProjectService">
     <state x="590" y="340" key="#Notifications" timestamp="1598996583037">
@@ -67,14 +84,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="257" key="FileChooserDialogImpl/0.0.1920.1040/-2560.0.2560.1400@0.0.1920.1040" timestamp="1599014412886" />
-    <state x="705" y="414" key="Github.ShareDialog" timestamp="1599014524251">
+    <state x="705" y="414" key="Github.ShareDialog" timestamp="1599015718069">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="705" y="414" key="Github.ShareDialog/0.0.1920.1040/-2560.0.2560.1400@0.0.1920.1040" timestamp="1599014524251" />
+    <state x="705" y="414" key="Github.ShareDialog/0.0.1920.1040/-2560.0.2560.1400@0.0.1920.1040" timestamp="1599015718069" />
     <state x="615" y="221" key="Github.UntrackedFilesDialog" timestamp="1599014532486">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="615" y="221" key="Github.UntrackedFilesDialog/0.0.1920.1040/-2560.0.2560.1400@0.0.1920.1040" timestamp="1599014532486" />
+    <state x="428" y="249" key="Vcs.Push.Dialog.v2" timestamp="1599015824772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="428" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-2560.0.2560.1400@0.0.1920.1040" timestamp="1599015824772" />
+    <state x="653" y="430" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599015555287">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="653" y="430" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/-2560.0.2560.1400@0.0.1920.1040" timestamp="1599015555287" />
     <state x="499" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1598990761222">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

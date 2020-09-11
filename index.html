@@ -1,11 +1,54 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns:text-align="http://www.w3.org/1999/xhtml">
 <head>
     <meta charset="UTF-8">
     <title>Menu</title>
 </head>
+<style>
+    h1 {
+        text-align:center;
+        color:blue;
+        font-family: "Arial Black";
+    }
+
+    body {
+        background-color: powderblue;
+    }
+
+    table {
+        border-collapse: collapse;
+        width: 20%;
+        margin-left: 40%;
+        margin-right: 40%;
+    }
+
+    table, th, td {
+
+        text-align: center;
+        border:1px solid black;
+        font-family: Arial
+    }
+
+    video {
+        text-align: center;
+    }
+
+    .center {
+        margin-left: auto;
+        margin-right: auto;
+
+        display: block
+    }
+
+    a {
+        font-weight: bold;
+    }
+
+</style>
 <body>
-<h1> Welcome to my Portfolio!</h1>
+<h1>
+    Welcome to my Portfolio!
+</h1>
 
     <table>
         <td><a href="main.html">Who Am I?</a></td>
@@ -16,7 +59,7 @@
 
 
 <div class="myVideo">
-<video width ="360" length ="240" controls>
+<video class= center width ="360" length ="240" controls>
     <source src ="webdevvideo.mp4" type="video/mp4">
 </video>
 </div>
